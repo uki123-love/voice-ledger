@@ -1,0 +1,14 @@
+{
+  "name": "语音记账",
+  "short_name": "语音记账",
+  "description": "点一下，说出消费，确认后保存在这台手机。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
