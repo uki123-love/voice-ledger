@@ -3,6 +3,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '20 1,9 * * *'
+  push:
+    paths:
+      - 'math-exam-workbench/**'
+      - '.github/workflows/update-math-exam-workbench.yml'
 permissions:
   contents: write
 jobs:
