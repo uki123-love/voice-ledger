@@ -1,0 +1,20 @@
+[
+  {
+    "name": "中央和国家机关事业单位公开招聘服务平台",
+    "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/",
+    "type": "事业单位",
+    "official": true
+  },
+  {
+    "name": "人社部公开招聘服务平台搜索",
+    "url": "https://search.mohrss.gov.cn/was5/web/search?channelid=202079&orderby=-docreltime",
+    "type": "事业单位",
+    "official": true
+  },
+  {
+    "name": "国家公务员局",
+    "url": "https://www.scs.gov.cn/",
+    "type": "国考",
+    "official": true
+  }
+]
