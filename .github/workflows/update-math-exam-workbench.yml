@@ -1,4 +1,4 @@
-name: Update math exam workbench data
+name: Update teacher establishment workbench data
 on:
   workflow_dispatch:
   schedule:
@@ -26,5 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add math-exam-workbench/data/jobs.json
-          git diff --cached --quiet || git commit -m "chore: update 2028 recruitment data"
+          git diff --cached --quiet || git commit -m "chore: update 2028 teacher establishment data"
           git push

@@ -1,20 +1,19 @@
 [
-  {
-    "name": "中央和国家机关事业单位公开招聘服务平台",
-    "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/",
-    "type": "事业单位",
-    "official": true
-  },
-  {
-    "name": "人社部公开招聘服务平台搜索",
-    "url": "https://search.mohrss.gov.cn/was5/web/search?channelid=202079&orderby=-docreltime",
-    "type": "事业单位",
-    "official": true
-  },
-  {
-    "name": "国家公务员局",
-    "url": "https://www.scs.gov.cn/",
-    "type": "国考",
-    "official": true
-  }
+  {"name":"北京市事业单位招聘官方专栏（含各区教委）","url":"https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/","type":"教师编","region":"北京市","department":"市、区教育委员会","scope":"市级汇总/区级公告","official":true},
+  {"name":"上海市人社局事业单位招聘公告（含各区教育系统）","url":"https://rsj.sh.gov.cn/tzpgg_17408/","type":"教师编","region":"上海市","department":"市、区教育局","scope":"市级汇总/区级公告","official":true},
+  {"name":"广州市教育局人事工作","url":"https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/","type":"教师编","region":"广东省广州市","department":"广州市教育局","scope":"市级教育局","official":true},
+  {"name":"广州市越秀区教育局信息通知","url":"https://www.yuexiu.gov.cn/gzjg/qzf/qjyj/jyzl/gk/xxtg/","type":"教师编","region":"广东省广州市越秀区","department":"越秀区教育局","scope":"区级教育局","official":true},
+  {"name":"广州市增城区教育局通知公告","url":"https://www.zc.gov.cn/jg/qzfbm/qjyj/tzgg/","type":"教师编","region":"广东省广州市增城区","department":"增城区教育局","scope":"区级教育局","official":true},
+  {"name":"广州市白云区教育局政府信息公开","url":"https://www.by.gov.cn/gzbyjy/gkmlpt/","type":"教师编","region":"广东省广州市白云区","department":"白云区教育局","scope":"区级教育局","official":true},
+  {"name":"广州市荔湾区招聘公告","url":"https://www.lw.gov.cn/ywdt/lwzp/","type":"教师编","region":"广东省广州市荔湾区","department":"荔湾区教育局","scope":"区级政府/教育局公告","official":true},
+  {"name":"广州市海珠区招聘信息","url":"https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/","type":"教师编","region":"广东省广州市海珠区","department":"海珠区教育局","scope":"区级政府/教育局公告","official":true},
+  {"name":"广州市黄埔区教育信息","url":"https://www.hp.gov.cn/zwgk/mszd/jy/","type":"教师编","region":"广东省广州市黄埔区","department":"黄埔区教育局","scope":"区级教育局","official":true},
+  {"name":"深圳市龙华区教育局招聘信息","url":"https://www.szlhq.gov.cn/bmxxgk/jyj/dtxx_124232/zpxx/","type":"教师编","region":"广东省深圳市龙华区","department":"龙华区教育局","scope":"区级教育局","official":true},
+  {"name":"深圳市龙岗区教育局人事信息","url":"https://www.lg.gov.cn/bmzz/jyj/xxgk/rsxx/","type":"教师编","region":"广东省深圳市龙岗区","department":"龙岗区教育局","scope":"区级教育局","official":true},
+  {"name":"深圳市福田区招聘专栏","url":"https://www.szft.gov.cn/xxgk/ztbd/ftqzkzl/","type":"教师编","region":"广东省深圳市福田区","department":"福田区教育局","scope":"区级政府/教育局公告","official":true},
+  {"name":"深圳市南山区通知公告","url":"https://www.szns.gov.cn/xxgk/qzfxxgkml/tzgg/","type":"教师编","region":"广东省深圳市南山区","department":"南山区教育局","scope":"区级政府/教育局公告","official":true},
+  {"name":"深圳市光明区招考招聘","url":"https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/","type":"教师编","region":"广东省深圳市光明区","department":"光明区教育局","scope":"区级政府/教育局公告","official":true},
+  {"name":"武汉市政府通知公告（教育系统）","url":"https://www.wuhan.gov.cn/zwgk/tzgg/","type":"教师编","region":"湖北省武汉市","department":"武汉市及各区教育局","scope":"市级汇总/区级公告","official":true},
+  {"name":"武汉市黄陂区教师招聘官方搜索","url":"https://www.huangpi.gov.cn/SITE/whs_70/search.html?searchWord=%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98&siteId=23","type":"教师编","region":"湖北省武汉市黄陂区","department":"黄陂区教育局","scope":"区级教育局","official":true},
+  {"name":"烟台市教师招聘官方专栏（含区县）","url":"https://www.yantai.gov.cn/col/col73425/index.html","type":"教师编","region":"山东省烟台市","department":"烟台市及区县教育局","scope":"市级汇总/区县公告","official":true}
 ]
