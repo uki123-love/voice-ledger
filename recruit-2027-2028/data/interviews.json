@@ -1,1 +1,173 @@
-{"updated_at":"2026-09-01T10:41:00+08:00","items":[{"id":"exp_byte_ai_pm","company":"字节跳动","role":"AI产品经理","direction":"产品经理","round":"业务面","publishDate":"2026-08-27","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/discuss/921941734647439360?sourceSSR=dynamic","focus":["Agent产品理解","指标分析","Prompt/工作流","需求与用户","AI产品评估"],"summary":"近期面经集中考察AI Agent产品理解、核心指标、用户留存问题拆解、Prompt调优与工作流设计区别，以及AI应用核心链路的数据判断。","questions":["为什么想做AI Agent产品经理？","Agent平台相对传统聊天机器人的新增价值是什么？","如何判断一个Agent产品做得好不好？","回答质量不错但留存不好，如何分析？","Prompt调优和Agent工作流设计分别解决什么问题？","优化AI应用核心链路时优先看哪些数据？"]},{"id":"exp_byte_user_ops","company":"字节跳动","role":"用户产品运营实习生","direction":"产品运营","round":"业务面","publishDate":"2026-08-31","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/feed/main/detail/c716f6adc55b4613a1b3407156f011d9","focus":["实习深挖","数据分析","AI工具","职业规划","优势劣势"],"summary":"近期27届暑期实习面经偏公式化业务面，重点追问数据分析如何真正解决问题、AI工具使用、实习贡献和个人优势劣势。","questions":["介绍一段最相关的实习经历。","举例说明用数据分析解决实际问题。","除了爬取/统计，还有没有更深入的分析方法？","学习和工作中如何使用AI？","为什么你能胜任这个岗位？","最有成就感的一件事是什么？"]},{"id":"exp_byte_product_ops","company":"字节跳动","role":"产品运营实习生","direction":"产品运营","round":"一面","publishDate":"2024-04-17","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/discuss/610201446906114048","focus":["产品运营理解","项目推进","职业规划","岗位能力"],"summary":"产品运营日常实习常从岗位理解、核心能力、项目推进障碍与职业方向切入，适合准备运营基本功和行为题。","questions":["如何理解产品运营？","产品运营需要哪些能力？","推动项目遇到问题会怎么解决？","未来想做什么方向？","你的职业规划是什么？"]},{"id":"exp_baidu_ai_pm","company":"百度","role":"AI产品经理","direction":"产品经理","round":"一面","publishDate":"2025-09-09","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/discuss/794987046438707200","focus":["项目结果","AIGC理解","到岗稳定性","责任心抗压","产品动机"],"summary":"AI产品经理实习面经兼顾项目深挖与AIGC理解，同时会确认长期实习可行性，并通过行为题判断责任心和抗压能力。","questions":["上一段实习做了什么项目，结果如何？","你在项目中是什么角色？","是否做过AIGC图片/视频相关实践？","怎么看当前AIGC图片/视频产品？","举例证明责任心和抗压能力。","为什么想做产品？"]},{"id":"exp_baidu_ops","company":"百度","role":"产品运营","direction":"产品运营","round":"业务面","publishDate":"2025-09-11","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/discuss/795602969684168704","focus":["项目真实性","数据能力","协同能力","岗位选择逻辑","职业判断"],"summary":"面试重心是深挖每段经历是否真正理解自己做过的项目，数据分析和协同基本功较重要，也会追问岗位选择逻辑、offer选择标准和职业理解。","questions":["分别介绍每段经历中最重要的项目。","你真正负责了什么，为什么这么做？","不同实习内容跨度很大，如何选择岗位？","你如何理解产品运营？","如果多家公司都给offer，会按什么标准选择？"]},{"id":"exp_xiaomi_data_pm","company":"小米","role":"数据产品经理","direction":"产品经理","round":"业务面","publishDate":"2025-11-08","source":"牛客网公开面经","sourceUrl":"https://www.nowcoder.com/feed/main/detail/c4cc37cd2a1846da9f448a2505f812f2","focus":["数据产品价值","项目复盘","BI工具","需求优先级","团队冲突","学习能力"],"summary":"数据产品经理面试强调业务—数据—技术之间的桥梁角色、BI工具认知、需求价值判断与优先级，并深挖项目结果和团队协作方式。","questions":["数据产品经理的核心价值是什么？","如何在业务、数据、技术之间协作？","详细复盘一个项目的背景、工作和结果。","如何判断新需求值不值得做？","怎么确定需求优先级？","如何处理团队冲突？","为什么从运营转向数据产品？"]}]}
+{
+  "updated_at": "2026-09-01T17:27:04.355986+08:00",
+  "items": [
+    {
+      "id": "exp_byte_ai_pm",
+      "company": "字节跳动",
+      "role": "AI产品经理",
+      "direction": "产品经理",
+      "round": "业务面",
+      "publishDate": "2026-08-27",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/discuss/921941734647439360?sourceSSR=dynamic",
+      "focus": [
+        "Agent产品理解",
+        "指标分析",
+        "Prompt/工作流",
+        "需求与用户",
+        "AI产品评估"
+      ],
+      "summary": "近期面经集中考察AI Agent产品理解、核心指标、用户留存问题拆解、Prompt调优与工作流设计区别，以及AI应用核心链路的数据判断。",
+      "questions": [
+        "为什么想做AI Agent产品经理？",
+        "Agent平台相对传统聊天机器人的新增价值是什么？",
+        "如何判断一个Agent产品做得好不好？",
+        "回答质量不错但留存不好，如何分析？",
+        "Prompt调优和Agent工作流设计分别解决什么问题？",
+        "优化AI应用核心链路时优先看哪些数据？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:26:54.493288+08:00"
+    },
+    {
+      "id": "exp_byte_user_ops",
+      "company": "字节跳动",
+      "role": "用户产品运营实习生",
+      "direction": "产品运营",
+      "round": "业务面",
+      "publishDate": "2026-08-31",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/feed/main/detail/c716f6adc55b4613a1b3407156f011d9",
+      "focus": [
+        "实习深挖",
+        "数据分析",
+        "AI工具",
+        "职业规划",
+        "优势劣势"
+      ],
+      "summary": "近期27届暑期实习面经偏公式化业务面，重点追问数据分析如何真正解决问题、AI工具使用、实习贡献和个人优势劣势。",
+      "questions": [
+        "介绍一段最相关的实习经历。",
+        "举例说明用数据分析解决实际问题。",
+        "除了爬取/统计，还有没有更深入的分析方法？",
+        "学习和工作中如何使用AI？",
+        "为什么你能胜任这个岗位？",
+        "最有成就感的一件事是什么？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:26:56.131922+08:00"
+    },
+    {
+      "id": "exp_byte_product_ops",
+      "company": "字节跳动",
+      "role": "产品运营实习生",
+      "direction": "产品运营",
+      "round": "一面",
+      "publishDate": "2024-04-17",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/discuss/610201446906114048",
+      "focus": [
+        "产品运营理解",
+        "项目推进",
+        "职业规划",
+        "岗位能力"
+      ],
+      "summary": "产品运营日常实习常从岗位理解、核心能力、项目推进障碍与职业方向切入，适合准备运营基本功和行为题。",
+      "questions": [
+        "如何理解产品运营？",
+        "产品运营需要哪些能力？",
+        "推动项目遇到问题会怎么解决？",
+        "未来想做什么方向？",
+        "你的职业规划是什么？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:26:58.153417+08:00"
+    },
+    {
+      "id": "exp_baidu_ai_pm",
+      "company": "百度",
+      "role": "AI产品经理",
+      "direction": "产品经理",
+      "round": "一面",
+      "publishDate": "2025-09-09",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/discuss/794987046438707200",
+      "focus": [
+        "项目结果",
+        "AIGC理解",
+        "到岗稳定性",
+        "责任心抗压",
+        "产品动机"
+      ],
+      "summary": "AI产品经理实习面经兼顾项目深挖与AIGC理解，同时会确认长期实习可行性，并通过行为题判断责任心和抗压能力。",
+      "questions": [
+        "上一段实习做了什么项目，结果如何？",
+        "你在项目中是什么角色？",
+        "是否做过AIGC图片/视频相关实践？",
+        "怎么看当前AIGC图片/视频产品？",
+        "举例证明责任心和抗压能力。",
+        "为什么想做产品？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:27:00.194193+08:00"
+    },
+    {
+      "id": "exp_baidu_ops",
+      "company": "百度",
+      "role": "产品运营",
+      "direction": "产品运营",
+      "round": "业务面",
+      "publishDate": "2025-09-11",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/discuss/795602969684168704",
+      "focus": [
+        "项目真实性",
+        "数据能力",
+        "协同能力",
+        "岗位选择逻辑",
+        "职业判断"
+      ],
+      "summary": "面试重心是深挖每段经历是否真正理解自己做过的项目，数据分析和协同基本功较重要，也会追问岗位选择逻辑、offer选择标准和职业理解。",
+      "questions": [
+        "分别介绍每段经历中最重要的项目。",
+        "你真正负责了什么，为什么这么做？",
+        "不同实习内容跨度很大，如何选择岗位？",
+        "你如何理解产品运营？",
+        "如果多家公司都给offer，会按什么标准选择？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:27:02.241795+08:00"
+    },
+    {
+      "id": "exp_xiaomi_data_pm",
+      "company": "小米",
+      "role": "数据产品经理",
+      "direction": "产品经理",
+      "round": "业务面",
+      "publishDate": "2025-11-08",
+      "source": "牛客网公开面经",
+      "sourceUrl": "https://www.nowcoder.com/feed/main/detail/c4cc37cd2a1846da9f448a2505f812f2",
+      "focus": [
+        "数据产品价值",
+        "项目复盘",
+        "BI工具",
+        "需求优先级",
+        "团队冲突",
+        "学习能力"
+      ],
+      "summary": "数据产品经理面试强调业务—数据—技术之间的桥梁角色、BI工具认知、需求价值判断与优先级，并深挖项目结果和团队协作方式。",
+      "questions": [
+        "数据产品经理的核心价值是什么？",
+        "如何在业务、数据、技术之间协作？",
+        "详细复盘一个项目的背景、工作和结果。",
+        "如何判断新需求值不值得做？",
+        "怎么确定需求优先级？",
+        "如何处理团队冲突？",
+        "为什么从运营转向数据产品？"
+      ],
+      "sourceReachable": true,
+      "lastChecked": "2026-09-01T17:27:04.355967+08:00"
+    }
+  ],
+  "notice": "面经仅保存摘要、题型归纳与原帖链接，不复制整篇内容。"
+}
