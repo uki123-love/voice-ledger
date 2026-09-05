@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T09:23:16.385688+08:00",
+  "updated_at": "2026-09-05T17:23:51.037042+08:00",
   "items": [
     {
       "id": "exp_byte_ai_pm",
@@ -27,7 +27,7 @@
         "优化AI应用核心链路时优先看哪些数据？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:06.687807+08:00"
+      "lastChecked": "2026-09-05T17:23:42.855023+08:00"
     },
     {
       "id": "exp_byte_user_ops",
@@ -55,7 +55,7 @@
         "最有成就感的一件事是什么？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:08.223844+08:00"
+      "lastChecked": "2026-09-05T17:23:44.244006+08:00"
     },
     {
       "id": "exp_byte_product_ops",
@@ -81,7 +81,7 @@
         "你的职业规划是什么？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:10.133141+08:00"
+      "lastChecked": "2026-09-05T17:23:45.856011+08:00"
     },
     {
       "id": "exp_baidu_ai_pm",
@@ -109,7 +109,7 @@
         "为什么想做产品？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:12.055184+08:00"
+      "lastChecked": "2026-09-05T17:23:47.567685+08:00"
     },
     {
       "id": "exp_baidu_ops",
@@ -136,7 +136,7 @@
         "如果多家公司都给offer，会按什么标准选择？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:14.186430+08:00"
+      "lastChecked": "2026-09-05T17:23:49.342026+08:00"
     },
     {
       "id": "exp_xiaomi_data_pm",
@@ -166,7 +166,7 @@
         "为什么从运营转向数据产品？"
       ],
       "sourceReachable": true,
-      "lastChecked": "2026-09-05T09:23:16.385669+08:00"
+      "lastChecked": "2026-09-05T17:23:51.037024+08:00"
     }
   ],
   "notice": "面经仅保存摘要、题型归纳与原帖链接，不复制整篇内容。"
