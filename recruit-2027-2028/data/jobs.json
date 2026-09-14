@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T14:16:40.911826+08:00",
+  "updated_at": "2026-09-14T23:53:15.106530+08:00",
   "jobs": [
     {
       "id": "remote_bytedance_seed_grad",
@@ -772,31 +772,6 @@
       "publishDate": "",
       "source": "百度校园招聘官网",
       "officialUrl": "https://talent.baidu.com/jobs/list?projectType=1",
-      "verified": "已核验",
-      "status": "报名中",
-      "notes": "由企业官方招聘列表自动发现；具体职责和资格请以官网实时页面为准。"
-    },
-    {
-      "id": "remote_baidu_e1a89fdb517c75",
-      "company": "百度",
-      "size": "大厂",
-      "industry": "互联网与人工智能",
-      "project": "案例集等材料的整理与编写 HR实习生(百度云招聘方向)(J12182)",
-      "direction": "职能岗位",
-      "type": "日常实习",
-      "batch": "日常实习项目",
-      "target": "在校生，日常实习全年开放且不限毕业时间",
-      "graduation": "不限毕业时间",
-      "coverage": "2028可报",
-      "location": "北京",
-      "education": "在校生",
-      "major": "",
-      "convertible": "暂未公布",
-      "applyStart": "",
-      "applyEnd": "",
-      "publishDate": "",
-      "source": "百度校园招聘官网",
-      "officialUrl": "https://talent.baidu.com/jobs/list?recruitType=INTERN",
       "verified": "已核验",
       "status": "报名中",
       "notes": "由企业官方招聘列表自动发现；具体职责和资格请以官网实时页面为准。"
